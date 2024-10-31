@@ -1,3 +1,7 @@
+# OPENDATASETS Python 3.13 FIX
+
+Hi. I have just wrote fix in source for python 3.13+ compatibility.
+
 # opendatasets
 
 `opendatasets` is a Python library for downloading datasets from online sources like [Kaggle](https://www.kaggle.com/datasets) and Google Drive using a simple Python command. 

@@ -1,6 +1,10 @@
 # OPENDATASETS Python 3.13 FIX
 
-Hi. I have just wrote fix in source for python 3.13+ compatibility.
+Hi. I have just wrote fix in source for python 3.13+ compatibility.  
+To install this version, you can use pip:
+```bash
+pip install git+https://github.com/MrMarvel/OpenDatasetsPy313
+```
 
 # opendatasets
 
